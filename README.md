@@ -108,7 +108,7 @@ signlearn/
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/signlearn.git
+git clone https://github.com/kevinlukaixing/signlearn.git
 cd signlearn
 
 # Install frontend dependencies
