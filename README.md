@@ -104,6 +104,10 @@ signlearn/
 └── README.md
 ```
 
+## Quick Start (Docker)
+
+>  **Coming soon** — Docker setup not yet implemented.
+
 ## How to Run
 
 ```bash
